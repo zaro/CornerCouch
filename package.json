@@ -1,0 +1,10 @@
+{
+  "name": "CornerCouch",
+  "version": "0.0.1",
+  "description": "CornerCouch - AngularJS module for CouchDB",
+  "jam": {
+    "dependencies": {
+      "angularjs": ""
+    }
+  }
+}

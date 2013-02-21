@@ -5,6 +5,7 @@
   "jam": {
     "dependencies": {
       "angularjs": ""
-    }
+    },
+		"main": "angular-cornercouch.js"
   }
 }

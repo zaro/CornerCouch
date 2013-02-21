@@ -4,7 +4,10 @@
   "description": "CornerCouch - AngularJS module for CouchDB",
   "jam": {
     "dependencies": {
-      "angularjs": ""
+      "angularjs": ">=1.0.1"
+    },
+    "shim": {
+        "deps": ["angularjs"]
     },
 		"main": "angular-cornercouch.js"
   }
